@@ -4,8 +4,8 @@
         <meta charset="utf-8">
         <title>Arunkumar Subbiah | Data Science Engineer</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="Arunkumar Subbiah - Resume 2022" name="keywords">
-        <meta content="Arunkumar Subbiah - CV 2022" name="description">
+        <meta content="Resume Website Template Free Download" name="keywords">
+        <meta content="Resume Website Template Free Download" name="description">
 
         <!-- Favicon -->
         <link href="img/favicon.ico" rel="icon">
@@ -28,7 +28,7 @@
         <div class="wrapper">
             <div class="sidebar">
                 <div class="sidebar-header">
-                    <img src="img/arun5.jpg" alt="Image">
+                    <img src="img/profile.jpg" alt="Image">
                 </div>
                 <div class="sidebar-content">
                     <nav class="navbar navbar-expand-md bg-dark navbar-dark">
@@ -61,8 +61,8 @@
                     </nav>
                 </div>
                 <div class="sidebar-footer">
-                    <a href="https://twitter.com/arunbrucereece"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.facebook.com/people/Arunkumar-Subbiah/100080368639022/"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.linkedin.com/in/arunkumarsubbiah2022"><i class="fab fa-linkedin-in"></i></a>
                 </div>
             </div>
@@ -73,7 +73,7 @@
                         <p>I'm</p>
                         <h1>Arunkumar Subbiah</h1>
                         <h2></h2>
-                        <div class="typed-text">Network Security Engineer, Data Science Engineer, Product Manager @ FinXflair</div>
+                        <div class="typed-text">Network Security Engineer, Data Science Engineer, Web Developer, Apps Developer, Product Owner @ FinXflair</div>
                     </div>
                 </div>
                 <!-- Header End -->
@@ -99,9 +99,9 @@
                             </div>
                             <div class="col-md-6 col-lg-7">
                                 <p>
-                                    Forward-thinking IBM certified Data Engineer specializes in identifying relevant data sources and sets to mine for client business needs and collect large structured/unstructured datasets and variables.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit orci. Donec molestie velit id libero blandit, quis suscipit urna suscipit. Donec aliquet erat eu lacinia iaculis. Ut tempor tellus eu sem pharetra feugiat. Proin libero ligula, gravida at porttitor eget.
                                 </p>
-                                <a class="btn" href="https://www.linkedin.com/in/arunkumarsubbiah2022">Hire Me</a>
+                                <a class="btn" href="#">Hire Me</a>
                             </div>
                         </div>
                         <div class="row">
@@ -160,7 +160,7 @@
                                 <div class="edu-col">
                                     <span>May-2003 <i>to</i> April-2007</span>
                                     <h3>Bachelor Degree</h3>
-                                    <p>Electronics & Instrumentation | VelTech Engg College (Anna University) | Chennai, TN, India.</p>
+                                    <p>Electronics & Instrumentation | VelTech Engg College (Anna University) | Chennai, Tamil Nadu, Chennai.</p>
                                 </div>
                             </div>
                             <!--<div class="col-md-6">
@@ -169,21 +169,14 @@
                                     <h3>Associate Degree</h3>
                                     <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
                                 </div>
-                            </div>-->
+                            </div>
                             <div class="col-md-6">
                                 <div class="edu-col">
-                                    <span>May-2001 <i>to</i> April-2003</span>
+                                    <span>01-Jan-2020 <i>to</i> 31-Dec-2050</span>
                                     <h3>High School</h3>
-                                    <p>St. Patricks A.I High School | Adyar, Chennai, Tamil Nadu, India.</p>
+                                    <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
                                 </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="edu-col">
-                                    <span>May-1999 <i>to</i> April-2001</span>
-                                    <h3>Middle School</h3>
-                                    <p>St. Patricks A.I High School | Adyar, Chennai, Tamil Nadu, India.</p>
-                                </div>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -200,54 +193,36 @@
                                 <div class="exp-col">
                                     <span>Jan-2022 <i>to</i> Till Date</span>
                                     <h3>Finxflair Private Limited</h3>
-                                    <h4>Singapore, SG</h4>
-                                    <h5>Product Manager</h5>
-                                    <p>Algorithmic trading leveraging Data Science and Deep learning from events.</p>
+                                    <h4>Singapore</h4>
+                                    <h5>Product Owner</h5>
+                                    <p>Algorithmic Trading Platform Leveraging Data Science and Deep Learning.</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="exp-col">
-                                    <span>Jan-2021 <i>to</i> Dec-2021</span>
+                                    <span> Jan-2021 <i>to</i> Dec-2021</span>
                                     <h3>Halian International</h3>
                                     <h4>Dubai, UAE</h4>
                                     <h5>Network Security Consultant</h5>
-                                    <p>Administrate Network and Security infrastructure for confidential client.</p>
+                                    <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="exp-col">
-                                    <span>Sep-2019 <i>to</i> Dec-2020</span>
-                                    <h3>Acepak Technologies</h3>
-                                    <h4>Singapore, SG (Hybrid)</h4>
-                                    <h5>Network SME</h5>
-                                    <p>Provide support to presales on engineering, RFP's and network design.</p>
+                                    <span>01-Jan-2020 <i>to</i> 31-Dec-2050</span>
+                                    <h3>ABC Soft Ltd</h3>
+                                    <h4>San Francisco, CA</h4>
+                                    <h5>Web Designer</h5>
+                                    <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="exp-col">
-                                    <span>Jan-2019 <i>to</i> Jul-2019</span>
-                                    <h3>Astek International (BNP Paribas)</h3>
-                                    <h4>Singapore, SG</h4>
-                                    <h5>Network Analyst</h5>
-                                    <p>Monitor and manage network infrastructure for BNP Paribas Global Network's.</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="exp-col">
-                                    <span>Aug-2015 <i>to</i> Dec-2018</span>
-                                    <h3>Logicalis Asia</h3>
-                                    <h4>Singapore, SG</h4>
-                                    <h5>Senior Network Engineer</h5>
-                                    <p>Provide post sales support for Logicalis Client's.</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="exp-col">
-                                    <span>Aug-2011 <i>to</i> Jul-2015</span>
-                                    <h3>Singtel</h3>
-                                    <h4>Singapore, SG</h4>
-                                    <h5>Associate Network Engineer</h5>
-                                    <p>Provide post sales support for Singtel Global MPLS Client's.</p>
+                                    <span>01-Jan-2020 <i>to</i> 31-Dec-2050</span>
+                                    <h3>Soft Agency</h3>
+                                    <h4>San Francisco, CA</h4>
+                                    <h5>Graphic Designer</h5>
+                                    <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
                                 </div>
                             </div>
                         </div>
@@ -265,29 +240,29 @@
                             <div class="col-md-6">
                                 <div class="srv-col">
                                     <i class="fa fa-desktop"></i>
-                                    <h3>Joomla CMS Solutions</h3>
-                                    <p>Install and manage Joomla content management system with modules and plugins to build dynamic website.</p>
+                                    <h3>Web Design</h3>
+                                    <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="srv-col">
                                     <i class="fa fa-laptop"></i>
-                                    <h3>OpenCart eCommerce Solutions</h3>
-                                    <p>Install and manage Opencart eCommerce system with modules and plugins to build dynamic website.</p>
+                                    <h3>Web Development</h3>
+                                    <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="srv-col">
                                     <i class="fa fa-search"></i>
-                                    <h3>Network Security Consultant</h3>
-                                    <p>Provide solutions for enterprise leveraging opensource products and solutions.</p>
+                                    <h3>SEO</h3>
+                                    <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="srv-col">
                                     <i class="fa fa-envelope-open-text"></i>
-                                    <h3>Data Science Engineer</h3>
-                                    <p>Identifying relevant data sources and sets to mine for client business needs and collect large structured/unstructured datasets and variables..</p>
+                                    <h3>Digital Marketing</h3>
+                                    <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
                                 </div>
                             </div>
                         </div>
@@ -451,17 +426,17 @@
                         <div class="row align-items-center">
                             <div class="col-md-6">
                                 <div class="contact-info">
-                                    <p><i class="fa fa-user"></i>Arunkumar Subbiah</p>
-                                    <p><i class="fa fa-tag"></i>Network Security Consultant & Product Manager</p>
-                                    <p><i class="fa fa-envelope"></i><a href="mailto:arunkumar.subbiah@icloud.com">arunkumar.subbiah@icloud.com</a></p>
-                                    <p><i class="fa fa-phone"></i><a href="tel:+916379842446">+91 63798 42446</a></p>
-                                    <p><i class="fa fa-map-marker"></i>9,Ezhil Nagar, Church Road, Poonamallee, Chennai, India</p>
+                                    <p><i class="fa fa-user"></i>Michael Miller</p>
+                                    <p><i class="fa fa-tag"></i>Web Designer & Developer</p>
+                                    <p><i class="fa fa-envelope"></i><a href="mailto:info@example.com">info@example.com</a></p>
+                                    <p><i class="fa fa-phone"></i><a href="tel:+1234567890">+123-456-7890</a></p>
+                                    <p><i class="fa fa-map-marker"></i>123 Street, Los Angeles, CA, USA</p>
                                     <div class="social">
-                                        <a class="btn" href="https://twitter.com/arunbrucereece"><i class="fab fa-twitter"></i></a>
-                                        <a class="btn" href="https://www.facebook.com/people/Arunkumar-Subbiah/100080368639022/"><i class="fab fa-facebook-f"></i></a>
-                                        <a class="btn" href="https://www.linkedin.com/in/arunkumarsubbiah2022"><i class="fab fa-linkedin-in"></i></a>
-                                        <a class="btn" href="https://www.instagram.com/arunkumarsubbiah.inc/"><i class="fab fa-instagram"></i></a>
-                                        <a class="btn" href="https://www.youtube.com/channel/UCmhjENLFbO19tHsmAMup38w"><i class="fab fa-youtube"></i></a>
+                                        <a class="btn" href=""><i class="fab fa-twitter"></i></a>
+                                        <a class="btn" href=""><i class="fab fa-facebook-f"></i></a>
+                                        <a class="btn" href=""><i class="fab fa-linkedin-in"></i></a>
+                                        <a class="btn" href=""><i class="fab fa-instagram"></i></a>
+                                        <a class="btn" href=""><i class="fab fa-youtube"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -496,10 +471,10 @@
                     <div class="content-inner">
                         <div class="row align-items-center">
                             <div class="col-md-6">
-                                <p>&copy; Copyright <a href="https://arunkumar.subbiah.finxflair.com">Finxflair - ChopChok</a>. All Rights Reserved</p>
+                                <p>&copy; Copyright <a href="https://htmlcodex.com">HTML Codex</a>. All Rights Reserved</p>
                             </div>
                             <div class="col-md-6">
-                                <p>Powered by <a href="https://finxflair.com">Finxflair - Chopchok</a></p>
+                                <p>Powered by <a href="https://htmlcodex.com">HTML Codex</a></p>
                             </div>
                         </div>
                     </div>
